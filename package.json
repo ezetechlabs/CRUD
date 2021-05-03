@@ -21,7 +21,7 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
-        "@coreui/coreui": "^2.1.16",
+        "@coreui/coreui": "^3.4.0",
         "@digitallyhappy/backstrap": "^0.3.4",
         "animate.css": "^3.7.2",
         "bootstrap": "^4.6.0",
